@@ -116,7 +116,7 @@ export const RestorationJourney = () => {
             </p>
           </div>
           <div className="flex items-center gap-2 text-primary">
-            <SparklesCore className="h-5 w-5" />
+            <Sparkles className="h-5 w-5" />
             <span className="font-mono text-sm tracking-wider">PROJECT: '69 FASTBACK</span>
           </div>
         </div>
